@@ -134,6 +134,7 @@
             {
                 if (row % 3 == 0 && row > 0)
                     Console.WriteLine("-----------");
+
                 for (int column = 0; column < 9; column++)
                 {
                     if (column % 3 == 0 && column > 0)
